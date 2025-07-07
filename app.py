@@ -5,6 +5,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 import seaborn as sns
 pip install streamlit pandas matplotlib seaborn pillow
+streamlit run app.py
 # Configuración básica de la página
 st.set_page_config(
     page_title="Análisis de Películas",
